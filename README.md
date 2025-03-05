@@ -4,7 +4,7 @@
 
 Typing Game is a web-based application designed to enhance typing skills by challenging players to type displayed quotes as quickly and accurately as possible. Upon clicking the "start" button, a random quote (I'm using [Sherlock Holmes](https://en.wikipedia.org/wiki/Sherlock_Holmes) quotes) appears, and the player types it into the provided input field. The game tracks the time taken to complete the quote, offering an engaging way to practice typing.
 
-![demo](external_resources\demo.gif)
+![demo](external_resources/demo.gif)
 
 ## Technical Implementation
 
